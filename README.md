@@ -17,7 +17,7 @@ Repositories: Interfaces that extend JpaRepository to interact with the MySQL da
 Exception Handling: Custom exception handling to manage errors gracefully, such as when a book is not found.
 
 Database Configuration: MySQL database is used to store and manage book records, with Spring Data JPA handling the database interactions.
-===========================================================================================================================
+
 
 ====> Project Structure
 src/main/java/com/bookstore
@@ -39,7 +39,7 @@ Remove Book: Enables removing a book from the library using its ISBN.
 Find Book by Title/Author: Provides case-insensitive search functionality to find books by title or author.
 List All Books: Lists all books available in the library.
 List Available Books: Lists only those books that are currently available for borrowing.
-========================================================================================================================================================================================
+
 Technologies Used
 Java 17: The latest version of Java, providing enhanced performance and new features.
 Spring Boot: A framework that simplifies the development of production-ready applications.

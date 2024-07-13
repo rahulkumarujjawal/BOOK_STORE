@@ -40,13 +40,13 @@ Find Book by Title/Author: Provides case-insensitive search functionality to fin
 List All Books: Lists all books available in the library.
 List Available Books: Lists only those books that are currently available for borrowing.
 
-Technologies Used
+== ==  >Technologies Used ==
 Java 17: The latest version of Java, providing enhanced performance and new features.
 Spring Boot: A framework that simplifies the development of production-ready applications.
 Spring Data JPA: Simplifies database interactions and provides a robust ORM.
 MySQL: A reliable and scalable relational database for storing book records.
 Thymeleaf: (Optional) A template engine for rendering HTML pages, if a front-end interface is required.
 This Library Management System serves as a robust solution for managing a library's book collection, ensuring efficient operations and an easy-to-use interface for library staff and users.
-==============================================================================================================================================================================================
+
 
 

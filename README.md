@@ -3,28 +3,7 @@
 > 🚀 A Spring Boot + MySQL based backend application for managing books efficiently using REST APIs.
 
 ---
-src
-└── main
-    ├── java
-    │   └── com.bookstore
-    │
-    │       ├── 🎮 Controller
-    │       │   └── BookController.java
-    │       │
-    │       ├── 📖 Entity
-    │       │   └── Book.java
-    │       │
-    │       ├── 🗄️ Repository
-    │       │   └── BookRepo.java
-    │       │
-    │       ├── ⚙️ Service
-    │       │   └── LibraryService.java
-    │       │
-    │       └── ⚠️ Exception
-    │           └── BookNotFoundException.java
-    │
-    └── resources
-        └── application.properties
+
 ## 🌟 Project Overview
 
 The **Book Store Management System** is a backend application developed using **Java 17, Spring Boot, Spring Data JPA, and MySQL**.

@@ -1,7 +1,14 @@
 # 📚 Book Store Management System
 
 > 🚀 A Spring Boot + MySQL based backend application for managing books efficiently using REST APIs.
-
+☕ Java 17
+🚀 Spring Boot
+🌱 Spring Data JPA
+🐬 MySQL
+🌐 REST API
+📦 Maven
+🧪 Postman
+⚠️ Custom Exception Handling
 ---
 
 ## 🌟 Project Overview
